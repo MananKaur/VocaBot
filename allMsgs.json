@@ -1,0 +1,6 @@
+{
+    "firstMsg": "Hello! The vocaBot setup is complete. To begin, type begin",
+    "begin": "Press 1. to look for the meaning. \n Press 2. to look for the synonyms. \n Press 3to look for the antonyms. \n Press 4. to see how the word can be used in a sentence \n Press 5. to exit",
+    "quit": "Voca says Bye! See you."
+
+}
